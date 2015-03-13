@@ -1,1 +1,1 @@
-# book_chapter_outline
+This repository contains documents for collaborations with me and my advisor
