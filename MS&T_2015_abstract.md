@@ -1,4 +1,4 @@
-#Compact Process-Structure Evolutions using Spectral Representations of Materials Knowledge Systems
+#Compact Process-Structure Evolutions using Spectral Representations in Materials Knowledge Systems Framework
 
 The materials and processing design space is an unimaginably large parameter space. Conventional approaches used to
 iteratively explore this space through experiments and simulations are both monetarily and computationally expensive. 
