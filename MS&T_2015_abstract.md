@@ -10,10 +10,10 @@ and Materials Informatics.
 
 Materials Knowledge Systems in Python (PyMKS) aims to seed and nurture 
 an emergent user group in the materials data analytics for establishing 
-homogenization and localization linkages by leveraging open source 
-scientific and machine learning packages in Python as well as provides 
-high level APIs that give easy access to the Materials Knowledge Systems 
-framework. An overview of the PyMKS project as well as examples will
-be presented.
+homogenization and localization linkages. PyMKS provides high level 
+access to the Materials Knowledge Systems framework through APIs and 
+leverages open source scientific and machine learning packages in 
+Python. An overview of the PyMKS project as well as examples will be 
+presented.
 
 **Text abstracts submitted for this symposium cannot exceed 150 words.**
